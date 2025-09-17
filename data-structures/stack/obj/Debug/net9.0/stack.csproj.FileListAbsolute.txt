@@ -1,0 +1,15 @@
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\bin\Debug\net9.0\stack.exe
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\bin\Debug\net9.0\stack.deps.json
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\bin\Debug\net9.0\stack.runtimeconfig.json
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\bin\Debug\net9.0\stack.dll
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\bin\Debug\net9.0\stack.pdb
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\obj\Debug\net9.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\obj\Debug\net9.0\stack.AssemblyInfoInputs.cache
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\obj\Debug\net9.0\stack.AssemblyInfo.cs
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\obj\Debug\net9.0\stack.csproj.CoreCompileInputs.cache
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\obj\Debug\net9.0\stack.sourcelink.json
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\obj\Debug\net9.0\stack.dll
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\obj\Debug\net9.0\refint\stack.dll
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\obj\Debug\net9.0\stack.pdb
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\obj\Debug\net9.0\stack.genruntimeconfig.cache
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\data-structures\stack\obj\Debug\net9.0\ref\stack.dll
