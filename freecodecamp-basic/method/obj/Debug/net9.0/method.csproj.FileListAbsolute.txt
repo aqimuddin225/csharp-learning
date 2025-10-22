@@ -1,0 +1,15 @@
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\bin\Debug\net9.0\method.exe
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\bin\Debug\net9.0\method.deps.json
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\bin\Debug\net9.0\method.runtimeconfig.json
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\bin\Debug\net9.0\method.dll
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\bin\Debug\net9.0\method.pdb
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\obj\Debug\net9.0\method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\obj\Debug\net9.0\method.AssemblyInfoInputs.cache
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\obj\Debug\net9.0\method.AssemblyInfo.cs
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\obj\Debug\net9.0\method.csproj.CoreCompileInputs.cache
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\obj\Debug\net9.0\method.sourcelink.json
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\obj\Debug\net9.0\method.dll
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\obj\Debug\net9.0\refint\method.dll
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\obj\Debug\net9.0\method.pdb
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\obj\Debug\net9.0\method.genruntimeconfig.cache
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\method\obj\Debug\net9.0\ref\method.dll
