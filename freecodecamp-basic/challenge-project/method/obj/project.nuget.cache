@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "48gDoC4gE/8=",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Ibrahim\\Documents\\My Workspace\\csharp-learning\\freecodecamp-basic\\challenge-project\\method\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ib\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ib\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ib\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ib\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

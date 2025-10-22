@@ -1,0 +1,15 @@
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\bin\Debug\net6.0\Starter.exe
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\bin\Debug\net6.0\Starter.deps.json
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\bin\Debug\net6.0\Starter.runtimeconfig.json
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\bin\Debug\net6.0\Starter.dll
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\bin\Debug\net6.0\Starter.pdb
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\obj\Debug\net6.0\Starter.sourcelink.json
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\obj\Debug\net6.0\Starter.dll
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\obj\Debug\net6.0\refint\Starter.dll
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\obj\Debug\net6.0\Starter.pdb
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\method\obj\Debug\net6.0\ref\Starter.dll
