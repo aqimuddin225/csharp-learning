@@ -1,0 +1,15 @@
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\bin\Debug\net9.0\plan-a-petting-zoo-visit.exe
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\bin\Debug\net9.0\plan-a-petting-zoo-visit.deps.json
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\bin\Debug\net9.0\plan-a-petting-zoo-visit.runtimeconfig.json
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\bin\Debug\net9.0\plan-a-petting-zoo-visit.dll
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\bin\Debug\net9.0\plan-a-petting-zoo-visit.pdb
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\obj\Debug\net9.0\plan-a-petting-zoo-visit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\obj\Debug\net9.0\plan-a-petting-zoo-visit.AssemblyInfoInputs.cache
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\obj\Debug\net9.0\plan-a-petting-zoo-visit.AssemblyInfo.cs
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\obj\Debug\net9.0\plan-a-petting-zoo-visit.csproj.CoreCompileInputs.cache
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\obj\Debug\net9.0\plan-a-petting-zoo-visit.sourcelink.json
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\obj\Debug\net9.0\plan-a-petting-zoo-visit.dll
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\obj\Debug\net9.0\refint\plan-a-petting-zoo-visit.dll
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\obj\Debug\net9.0\plan-a-petting-zoo-visit.pdb
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\obj\Debug\net9.0\plan-a-petting-zoo-visit.genruntimeconfig.cache
+D:\Users\Ibrahim\Documents\My Workspace\csharp-learning\freecodecamp-basic\challenge-project\plan-a-petting-zoo-visit\obj\Debug\net9.0\ref\plan-a-petting-zoo-visit.dll
